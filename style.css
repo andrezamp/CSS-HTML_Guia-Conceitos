@@ -1,0 +1,23 @@
+
+body {
+    background-color: #FAE8E2;
+    color: #000000;
+}
+title{
+    color: #000000
+}
+strong{
+    color: #2B99FA;
+    padding: 10px;
+    border: 1px solid ;
+}
+span{
+    color:#D6A9BB;
+    font-weight: bold;
+    
+}
+span1{
+    padding: 10px;
+    border: 1px solid ;
+    color:#D6A9BB;
+}
